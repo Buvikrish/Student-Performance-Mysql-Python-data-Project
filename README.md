@@ -1,7 +1,8 @@
 # Student-Performance-Mysql-Python-data-Project
-Student Performance Data Analysis Project
-**Project Overview**
 
+
+**Project Overview**
+Student Performance Data Analysis Project.
 This project analyzes a student performance dataset using Python (Pandas) and MySQL.
 It calculates each student’s total marks, percentage, result (Pass/Fail), and grade, then stores the data in a MySQL database for easy access and reporting.
 
