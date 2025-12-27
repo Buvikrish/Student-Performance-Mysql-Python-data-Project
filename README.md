@@ -73,6 +73,7 @@ Removes duplicates and prevents redundant entries
 Truncates table before inserting new data
 
 **Grading Logic**
+
 Percentage Range	Grade
 90–100	A+
 80–89	A
@@ -80,11 +81,14 @@ Percentage Range	Grade
 60–69	C
 50–59	D
 Below 50	F
+
 **Sample Output**
+
 Student_ID	Final Exam Marks	Total_Marks	Percentage	Result	Grade
 S1001	85	178	93.7%	Pass	A+
 S1002	45	110	57.9%	Pass	D
 S1003	30	78	41.0%	Fail	F
+
 **How to Run**
 
 Install dependencies
